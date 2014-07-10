@@ -3,7 +3,7 @@
    single: Bundle; Configuration d'extension
 
 Comment exposer une configuration sémantique pour un Bundle
-===========================================================
+===============
 
 Si vous ouvrez le fichier de configuration de votre application (en général
 ``app/config/config.yml``), vous allez y trouver un certain nombre de différents
