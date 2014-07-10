@@ -505,7 +505,7 @@ Vous pouvez également voir cela en action en effectuant un
 « checkout » d'une des classes de Configuration coeurs, comme par exemple
 la `Configuration du FrameworkBundle`_ ou la `Configuration du TwigBundle`_.
 
-Dump de la Configuration par Défaut
+Dump de la Configuration par défaut
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. versionadded:: 2.1
